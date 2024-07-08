@@ -1,0 +1,12 @@
+{
+  "name": "36-t-shirts",
+  "version": "1.0.0",
+  "description": "This program will generate size and message of t-shirt by using function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

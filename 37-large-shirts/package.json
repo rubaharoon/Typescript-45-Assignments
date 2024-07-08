@@ -1,0 +1,12 @@
+{
+  "name": "37-large-shirts",
+  "version": "1.0.0",
+  "description": "This program is showing the size and text of the shirt through the function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

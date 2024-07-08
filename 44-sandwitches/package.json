@@ -1,0 +1,12 @@
+{
+  "name": "44-sandwitches",
+  "version": "1.0.0",
+  "description": "This program is showing different ways to make sandwitches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

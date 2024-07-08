@@ -1,0 +1,12 @@
+{
+  "name": "13-your-own-array",
+  "version": "1.0.0",
+  "description": "This program will create an array of transportation mode and print it. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "2-personal-message",
+  "version": "1.0.0",
+  "description": "\"This program is showing a concept of variable\",",
+  "main": "question-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

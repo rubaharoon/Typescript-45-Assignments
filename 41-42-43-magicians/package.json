@@ -1,0 +1,12 @@
+{
+  "name": "41-42-43-magicians",
+  "version": "1.0.0",
+  "description": "This program is passing the array of magicians names to a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
